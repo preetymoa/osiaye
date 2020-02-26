@@ -1,0 +1,42 @@
+.begin{
+color: white;
+background-color: black;
+text-align: left;
+}
+body{
+    margin: 10%;
+    padding-top:0px;
+}
+.fresh{
+    font-size: xx-large;
+    padding-left: 5%;
+}
+.basic{
+    float: right;
+    width: 20%;
+
+}
+img{
+    padding-left: 8%;  
+}
+.trouble{
+    display: inline-block;
+}
+.more{
+    padding-left: 5%;
+}
+.photos img{
+    display: inline-block;
+    width: 20%;
+    padding: 5px;
+    margin: 15px;
+}
+.base{
+    color: black;
+    border-style: solid;
+    background-color: black;
+    height: 5px;
+    margin-left: -80px;
+    margin-right: -20px;
+    margin-bottom: -20px;
+}
